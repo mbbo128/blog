@@ -38,7 +38,7 @@ conduct these meetings:
 so they will be more comfortable bringing sensitive subjects
 - Conducting a mini performance review
 - Giving coaching on  a specific subject
-- It is also an opportunity to establish a culture of continuous feedback by providing it and asking to receive it
+- Establish a culture of continuous feedback by providing it and asking to receive it
 
 Time frame between two meetings can vary according to the needs and schedules of each one but should not 
 exceed one month.
