@@ -32,7 +32,7 @@ linkedin_username:  mbbron
 
 # Disqus Comments
 disqus:
-  shortname: mbbo
+  shortname: mbbo128
 
 # Build settings
 theme: minima
