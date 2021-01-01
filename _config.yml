@@ -38,6 +38,10 @@ disqus:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate_path: "/blog/p:num/"
+paginate: 16
 
 # Exclude from processing.
 # The following items will not be processed, by default.
