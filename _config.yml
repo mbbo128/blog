@@ -30,6 +30,10 @@ twitter_username: mebbron
 github_username:  mbbo
 linkedin_username:  mbbron
 
+# Disqus Comments
+disqus:
+  shortname: mbbo
+
 # Build settings
 theme: minima
 plugins:
