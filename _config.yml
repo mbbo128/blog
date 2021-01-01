@@ -20,7 +20,7 @@
 
 title: Some thoughts on software
 email: mbbolive@gmail.com
-description: "Mehdi Boissat-Bron"
+description: "Mehdi Boissat-Bron's blog on software"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mbbo.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mebbron
