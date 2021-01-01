@@ -76,8 +76,8 @@ understaffed, dependence on other teams, deep legacy code, over-concentration of
 combination of all of these. It is your role to understand the reason and to restore the situation to a good level. 
 Removing all pain points should remain an end goal and must be an ongoing process.
 
-Now that we've covered the basics of management. Don’t hesitate to explore more about this vaste subject
-and put the result of your research in the comments.
+Now that we've covered the basics. Please let me know in the comments section below if I missed anything related to 
+good management behavior.
 
 {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
