@@ -31,10 +31,15 @@ In almost all companies there are annual or semi-annual performance reviews. But
 During this time and without a simple platform for private discussion, some important topics can never be put on the 
 table and resentments can grow to a point of no return. One-on-one meetings are designed to fill this gap and, because 
 it is a time-consuming activity, they should be meaningful. Several themes and options are available to properly 
-conduct these meetings: asking questions about personal life and getting to know your team better on a personal level 
-so they will be more comfortable bringing sensitive subjects, conducting a mini performance review, giving coaching on 
-a specific subject, it is also an opportunity to establish a culture of continuous feedback by providing it and asking 
-to receive it. Time frame between two meetings can vary according to the needs and schedules of each one but should not 
+conduct these meetings:
+ 
+- Asking questions about personal life and getting to know your team better on a personal level 
+so they will be more comfortable bringing sensitive subjects
+- Conducting a mini performance review
+- Giving coaching on  a specific subject
+- It is also an opportunity to establish a culture of continuous feedback by providing it and asking to receive it
+
+Time frame between two meetings can vary according to the needs and schedules of each one but should not 
 exceed one month.
 
 ### Give proper career guidance
@@ -52,10 +57,10 @@ delegation framework.
 
 A well-known example is the **Eisenhower Matrix** :
 
-|          |      Urgent      |  Not Urgent |
-|----------|:-------------:|------:|
-| Important | Do first | Do later |
-| Not Important | Delegate | Eliminate |
+|               | Urgent   | Not Urgent |
+|:-------------:|:--------:|:----------:|
+| Important     | Do first | Do later   |
+| Not Important | Delegate | Eliminate  |
 
 The idea is not to rigorously apply this matrix but at least to introduce you to the idea of whether a task can or 
 should be delegated as well as the relevance of this delegation action. It's also important to remember that recruiting 
@@ -71,7 +76,8 @@ understaffed, dependence on other teams, deep legacy code, over-concentration of
 combination of all of these. It is your role to understand the reason and to restore the situation to a good level. 
 Removing all pain points should remain an end goal and must be an ongoing process.
 
-Now, you have the basics of management discipline. Don’t hesitate to explore more about this vaste subject.
+Now that we've covered the basics of management. Don’t hesitate to explore more about this vaste subject
+and put the result of your research in the comments.
 
 {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
