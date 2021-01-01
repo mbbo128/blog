@@ -12,6 +12,7 @@ burden of toxic management, but they have also cut down on good managers who can
 on increasing the potential of individuals.
 
 ![Logo](/images/election2.jpg)
+
 _Election 2 (2006) by Johnnie To_
 
 ### Why you should care about management
