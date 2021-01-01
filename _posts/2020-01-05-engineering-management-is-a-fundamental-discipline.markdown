@@ -2,8 +2,8 @@
 layout: post
 title:  "Engineering management is a fundamental discipline"
 date:   2020-01-05
-categories: jekyll update
 ---
+
 Traditionally in technical fields such as software, it is not uncommon to experience an atmosphere of mistrust and 
 sometimes a feeling of total rejection of leadership positions. The famous video game company, Valve, adopted a flatness 
 organization by totally removing hierarchy. The success of this company emphasized the initial feeling of mistrust 
@@ -51,6 +51,7 @@ be to work on communication skills. A good manager makes sure to explain and est
 be taken to achieve the career goal.
 
 ### Delegate effectively
+
 If you are the type of manager who likes to do everything on your own and supervise every decision, you can quickly 
 become overworked and infantilize your team as well. To avoid this problem, it may be beneficial to apply an existing 
 delegation framework. 
