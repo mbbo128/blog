@@ -23,9 +23,9 @@ email: mbbolive@gmail.com
 description: "Mehdi Boissat-Bron's blog on software"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mbbo.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mebbron
-github_username: mbbo
-linkedin_username: mbbron
+twitter_username: mbbo128
+github_username: mbbo128
+linkedin_username: mbbo128
 
 # Disqus Comments
 disqus:
