@@ -10,7 +10,7 @@ organization by totally removing hierarchy. The success of this company emphasiz
 proving that it was possible to succeed even without management. By reducing management, they succeed in removing the 
 burden of toxic management, but they have also cut down on good managers who can have an extremely positive influence 
 on increasing the potential of individuals.
-
+<!---
 ![Logo](/images/election2.jpg)
 
 _Election 2 (2006) by Johnnie To_
@@ -80,6 +80,7 @@ Removing all pain points should remain an end goal and must be an ongoing proces
 
 Now that we've covered the basics. Please let me know in the comments section below if I missed anything related to 
 good management behavior.
+-->
 
 {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
