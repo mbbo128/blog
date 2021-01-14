@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Engineering management is a fundamental discipline"
+title:  "Engineering Management is a Fundamental Discipline"
 date:   2021-01-14
 ---
 
