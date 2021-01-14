@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Engineering management is a fundamental discipline"
-date:   2021-01-05
+date:   2021-01-14
 ---
 
 Traditionally in technical fields such as software, it is not uncommon to experience an atmosphere of mistrust and 
@@ -13,7 +13,7 @@ on increasing the potential of individuals.
 
 ![Logo](/images/election2.jpg)
 
-_Election 2 (2006) by Johnnie To_
+_Election 2 (2006) by Johnnie To, when the leader is preparing his succession_
 
 ### Why you should care about management
 
