@@ -84,3 +84,5 @@ good management behavior.
 {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
 {% endif %}
+
+{% include google-analytics.html %}

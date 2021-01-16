@@ -59,9 +59,3 @@ paginate: 16
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "258452830"
-    anonymize_ip: true
