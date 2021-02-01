@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-👋🏼 Hello my name is Mehdi Boissat-Bron, I was born in 1991 in [Sens](https://en.wikipedia.org/wiki/Sens)
+👋🏼 Hello my name is Mehdi Boissat-Bron, I was born in 1991
 
 📍 I am a Software Engineer living in Paris
 
