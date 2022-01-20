@@ -5,9 +5,9 @@ date:   2022-01-20
 ---
 
 Inside the tech scene, using an agile methodology has established itself as the primary mode of organization. This takeover 
-was not made without resistance, a good illustration is the conference by Erik Meijer "One Hacker Way" which begins with 
-the punchline agile is a cancer that we have to eliminate from our industry. Another example is the talk  “Agile is dead” 
-by Dave Thomas or “The death of Agile” by Allen Holub.
+was not made without resistance, a good illustration is the conference by Erik Meijer *One Hacker Way* which begins with 
+the punchline agile is a cancer that we have to eliminate from our industry. Another example is the talk  *Agile is dead* 
+by Dave Thomas or *The death of Agile* by Allen Holub.
 
 According to them the business made around this method, the use of many buzzwords and a certain heaviness in the setting 
 up are the principal concerns. Even if this judgment can sound pretty hard, these concerns are mostly true, however the 
