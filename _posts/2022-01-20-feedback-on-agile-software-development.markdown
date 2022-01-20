@@ -8,11 +8,13 @@ Inside the tech scene, using an agile methodology has established itself as the 
 was not made without resistance, a good illustration is the conference by Erik Meijer "One Hacker Way" which begins with 
 the punchline agile is a cancer that we have to eliminate from our industry. Another example is the talk  “Agile is dead” 
 by Dave Thomas or “The death of Agile” by Allen Holub.
+
 According to them the business made around this method, the use of many buzzwords and a certain heaviness in the setting 
 up are the principal concerns. Even if this judgment can sound pretty hard, these concerns are mostly true, however the 
 benefit you get makes those minor discomforts less important.
 
-Agility emerged as a series of best practices and can be found in the Manifesto for Agile Software Development published 
+Agility emerged as a series of best practices and can be found in the 
+[Manifesto for Agile Software Development](https://agilemanifesto.org/) published 
 in 2001 by a group of programmers. This manifesto consists of 4 values and 12 principles. In order to apply these values 
 and principles, different frameworks are available. It can be extreme programming, kanban, scrum or others. Scrum was 
 originally a wrapper around extreme programming. But over time it has become the most popular, which is why we will 
@@ -39,15 +41,16 @@ First, the most common is the **Daily Standup Meeting or DSM** which is the shor
 if they are having difficulties. Then, on a weekly basis, there is the **refinement of the Backlog**, where future work 
 that will be integrated into the next sprint is estimated. We estimate the difficulty of every future task with a vote 
 system and eventually a discussion if there is no consensus on the vote.
+
 At the end of each sprint we have 3 meetings : the **Demo**, when several teams of a similar functional scope regroup 
 themselves to present key functionalities they developed during the sprint. Then the **SPM** for Sprint Planning Meeting 
 takes place in two parts, a first where the product owner presents the different tickets that will be integrated into 
 the next sprint and a second in which the developers divide the tickets into technical sub-tasks if necessary. And 
 finally we have the **Retro**, which is very important, its objective is to determine what’s worked well or not during 
 the iteration and to find future obstacles, all in the form of workshops.
+
 Now that we saw what the schedule looks like, we can focus on five key points, to avoid an inconfort feeling from 
 the project’s stakeholders.
-
 
 ### Technical subjects should not be on the side
 
