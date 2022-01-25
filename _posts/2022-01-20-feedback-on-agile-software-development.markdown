@@ -72,7 +72,7 @@ functionality. This mode can be reassuring for the management but will create un
 team, forcing them to make shortcuts such as not writing tests or worse to go faster. The quality of deliverables will 
 decline as well as the motivation of developers who will not have the chance to produce quality code.
 
-The alternative is to make an estimation by points. The alternative is to estimate by points. For instance we can have 
+The alternative is to estimate by points. For instance we can have 
 from 1 to 13 points. Above that limit it will be necessary to split the task into smaller ones. For the assignment 
 above the estimation could be two points, and so the developer who takes this, knows that there is a little complexity 
 and therefore is assumed to be finished relatively quickly. Indeed even with points we still have time management in 
@@ -93,7 +93,7 @@ join the project.
 
 The role is to guarantee the proper functioning of the sprints. This can be a full time job and in this case, 
 the person will take care of several teams. Or it can be an additional mission of a team member. The scrum master, 
-for instance, ensures that the daily standup meeting does not exceed the timebox, is also organizes the sprint 
+for instance, ensures that the daily standup meeting does not exceed the timebox. Is also organizes the sprint 
 retrospective which is the most important meeting in the routine, and is indeed going to prepare workshops in 
 advance for this. Another assignment is to make sure that no additional tickets are integrated into the sprint 
 and the initial contract is respected. And finally there is also a privileged link with the product owner in order 
@@ -105,7 +105,7 @@ Tasks based on points, presence of technical development, well-written tickets w
 the presence of a scrum master, all of this allow quality work to be accomplished. But despite all this, there will 
 unfortunately always be bugs in production or system failure which can disrupt the proper functioning of the sprint. 
 To prevent this from happening it is interesting to assign a person in the team who will deal with all these urgents 
-moments. If there are too many flaws, it means they are design implementation issues that need to be resolved soon as 
+moments. If there are too many flaws, it means they are design implementation issues that need to be resolved as soon as 
 possible. A week per person for this role is a good period of time.
 
 Since agility is a synonym of flexibility, it’s always interesting to try new practices or remove elements if they do 
