@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deep Dive into Feedback Practices"
-date:   2024-01-09
+date:   2024-01-08
 ---
 
 In every day or professional life, there can be many opportunities to provide feedback, whether it’s from a manager to a 
